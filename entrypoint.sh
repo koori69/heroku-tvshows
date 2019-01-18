@@ -1,3 +1,3 @@
 sed -i "s/#PORT#/$PORT/g" /etc/nginx/nginx.conf
-nginx
+nginx &
 ./tvdb-transfer
