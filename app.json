@@ -2,7 +2,6 @@
   "name": "Heroku-Tvshows",
   "description": "deploy tvshows to Heroku.",
   "keywords": ["tvshows"],
-  "env": {},
   "website": "https://github.com/koori69/heroku-tvshows",
   "repository": "https://github.com/koori69/heroku-tvshows",
   "stack": "container"
